@@ -1,0 +1,12 @@
+#app {
+  display: inline-block;
+  width: auto;
+  vertical-align: middle;
+  margin-right: 20px;
+}
+#test {
+  display: inline-block;
+  width: auto;
+  vertical-align: top;
+  margin-top: 20px;
+}
